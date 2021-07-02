@@ -7,4 +7,4 @@
 ### About me
 I'm a backend programmer
 
-- [Courses](https://www.cursos.com.br) 👨🏼‍🏫 - It's are technical courses on many technologies,Python, Git and more
+- [Courses](https://drive.google.com/drive/folders/19nZCwHbRNV9DWRKBPRLhHgDJcxZgaj7s?usp=sharing) 👨🏼‍🏫 - It's are technical courses on many technologies.
