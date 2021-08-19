@@ -1,13 +1,8 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ajsalmeida)](https://github.com/ajsalmeida)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/antoniojosealmeida/)
-
-
-
-- [Courses](https://drive.google.com/drive/folders/19nZCwHbRNV9DWRKBPRLhHgDJcxZgaj7s?usp=sharing) 👨🏼‍🏫 - Courses that I've made.
 ## Hi, I'm Antonio José! :D 
 
 ### About me
 I'm a backend programmer currently working with datascience and python
+- [Courses](https://drive.google.com/drive/folders/19nZCwHbRNV9DWRKBPRLhHgDJcxZgaj7s?usp=sharing) 👨🏼‍🏫 - Courses that I've made.
  <div>
   <a href="https://github.com/ajsalmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajsalmeida&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
