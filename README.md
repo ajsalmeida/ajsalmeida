@@ -20,7 +20,11 @@ I'm a backend programmer currently working with datascience and python
 <div> 
   <a href = "mailto:ajsalmeida@hotmail.com"><img src="https://img.shields.io/badge/-MAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antoniojosealmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
+ ### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/483qvnyanruw0ndsojmjg45rj)
 
  
 </div>
