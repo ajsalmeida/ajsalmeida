@@ -15,12 +15,13 @@ I'm a backend programmer currently working with datascience and python
   <img align="center" alt="ajsalmeida-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+ ##
  
 <div> 
   <a href = "mailto:ajsalmeida@hotmail.com"><img src="https://img.shields.io/badge/-MAIL-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antoniojosealmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ ##
  
  ### Now Playing 🎧
 
