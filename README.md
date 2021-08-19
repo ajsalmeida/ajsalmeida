@@ -5,6 +5,6 @@
 
 
 ### About me
-I'm a backend programmer currently working with python
+I'm a backend programmer currently working with datascience and python
 
 - [Courses](https://drive.google.com/drive/folders/19nZCwHbRNV9DWRKBPRLhHgDJcxZgaj7s?usp=sharing) 👨🏼‍🏫 - It's are technical courses on many technologies.
